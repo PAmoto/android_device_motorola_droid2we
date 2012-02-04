@@ -347,12 +347,13 @@ def WriteFullOTAPackage(input_zip, output_zip):
 #    script.AssertOlderBuild(ts)
   
   script.Print("  ")                                          
-  script.Print(" ___  _        _ ____ ___  _____   _____ ____  ")
-  script.Print("/  _\/ \__/|\ / |  _ Y_  \/  __/  /  __//  __\ ")
-  script.Print("| /  | |\/||_\| | | \|/  /| |  ___| |  _| | // ")
-  script.Print("| \__| |  ||  | | |_/|  /_| |_//\_\ |_//| |_|\ ")
-  script.Print("\___/\_/  \|  \_|____|___/\____\  \____\/____/ ")
-  script.Print(" A RevNumbers Kang")
+  script.Print("_______                        ______")
+  script.Print("___    |_______ _______ ______ ___  /")
+  script.Print("__  /| |__  __ \__  __ `/_  _ \__  / ")
+  script.Print("_  ___ |_  / / /_  /_/ / /  __/_  /  ")
+  script.Print("/_/  |_|/_/ /_/ _\__, /  \___/ /_/   ")
+  script.Print("                /____/               ")
+  script.Print("a CM7 kang ")
   script.Print("  ")
 
 # kernel check...
