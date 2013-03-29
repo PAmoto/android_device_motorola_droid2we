@@ -14,5 +14,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo cm_droid2we-userdebug
-add_lunch_combo cm_droid2we-eng
+add_lunch_combo pa_droid2we-userdebug
+add_lunch_combo pa_droid2we-eng
