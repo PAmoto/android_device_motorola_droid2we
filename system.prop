@@ -91,3 +91,6 @@ ro.HorizontalBUA=false
 ro.HorizontalVVM=false
 ro.url.legal=http://www.google.com/intl/%s/mobile/android/basic/phone-legal.html
 ro.url.legal.android_privacy=http://www.google.com/intl/%s/mobile/android/basic/privacy.html
+
+hwui.use.blacklist=true
+
